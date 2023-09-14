@@ -1,13 +1,14 @@
 # converter_currency
 
 команды прописывать в термминале
+
 клонируем репозиторий себе на ПК командой git clone <ссылка на проект>
 
 ![img_2.png](img_2.png)
 
 команда: git clone https://github.com/OlzhasKALIEV/converter_currency.git
 
-установка зависимосетей команда: python install -r .\requirements.txt
+установка зависимосетей команда: pip install -r .\requirements.txt
 
 запустить сервер python .\app.py run 
 
